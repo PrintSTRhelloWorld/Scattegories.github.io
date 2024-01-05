@@ -1,0 +1,26 @@
+body{
+    background-image: url(CREATIVITY.jpg);
+    background-position: 0%;
+    background-repeat: no-repeat;
+    background-size:  cover
+    
+} 
+table  {
+  border-collapse: collapse;
+  width: 400px;
+  border: 2px solid white; /* White border for the entire table */
+}
+
+th, td {
+  border: 1px solid white;
+  padding: 8px;
+  text-align: left;
+}
+.hf input {
+  height: 200px;
+  background-color: black;
+  color: white;
+}
+.hd {
+  background-color: black;
+}
